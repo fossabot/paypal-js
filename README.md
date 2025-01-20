@@ -1,4 +1,6 @@
 ## PayPal JS Monorepo
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fpaypal-js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fpaypal-js?ref=badge_shield)
+
 
 This is a collection of libraries intended to help developers more easily integrate with PayPal's JS SDK
 
@@ -51,3 +53,7 @@ To release a new version please leverage Github Actions. There is a release acti
 #### Release a new alpha
 
 There is no Github Action for alpha release at this time. Because this repo utilizes changesets we can follow their process locally in the meantime. This document can be seen [here](https://github.com/changesets/changesets/blob/main/docs/prereleases.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fpaypal-js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fpaypal-js?ref=badge_large)
